@@ -1,6 +1,15 @@
-# pihole-blocklists
+<h1 align="center">pihole-blocklists</h1>
 
-Listes de blocage DNS pour Pi-hole, construites à partir de rapports de threat intelligence publics.
+<p align="center">
+  <b>Listes de blocage DNS pour Pi-hole, construites à partir de rapports de threat intelligence publics</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Matt-uSk/pihole-blocklists/stargazers"><img src="https://img.shields.io/github/stars/Matt-uSk/pihole-blocklists?label=%C3%89toiles&color=f5a623&logo=github&logoColor=white" alt="Stars"></a>
+  <a href="https://github.com/Matt-uSk/pihole-blocklists/commits/main"><img src="https://img.shields.io/github/last-commit/Matt-uSk/pihole-blocklists?label=Mise%20%C3%A0%20jour&color=2ea44f" alt="Last commit"></a>
+  <a href="#utilisation"><img src="https://img.shields.io/badge/Pi--hole-compatible-96060C?logo=pihole&logoColor=white" alt="Pi-hole"></a>
+  <a href="https://ko-fi.com/mattusk"><img src="https://img.shields.io/badge/Ko--fi-Offrir%20un%20caf%C3%A9-FF5E5B?logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
+</p>
 
 ## Listes
 
@@ -23,3 +32,7 @@ Listes de blocage DNS pour Pi-hole, construites à partir de rapports de threat 
 ## Utilisation
 
 Pi-hole → *Adlists* → coller l'URL raw → puis `pihole -g` (ou *Update Gravity*).
+
+## Soutenir le projet
+
+Ce projet est gratuit. S'il te rend service, tu peux m'offrir un café sur **[Ko-fi](https://ko-fi.com/mattusk)** ☕ — merci !
